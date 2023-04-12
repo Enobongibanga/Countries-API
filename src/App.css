@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+ 
+}
+
+.favourite-btn:active {
+   color:red
+}
+
+.favourite-btn:hover {
+  color:red
+}
+
